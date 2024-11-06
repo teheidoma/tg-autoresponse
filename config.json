@@ -1,0 +1,15 @@
+{
+  "telegram": {
+    "self": 123456789,
+    "other": 987654321,
+    "phone": "+12345678900",
+    "api_id": 123456,
+    "api_hash": "abcdef1234567890abcdef1234567890"
+  },
+  "openwebui": {
+    "host": "http://localhost:3000",
+    "token": "sk-fakeToken1234567890abcdefg",
+    "model": "gpt-3-turbo-mini",
+    "prompt": "твоя задача вести бесіду з людиною, так щоб ніхто не зрозумів що ти не людина. уяви що спілкуєшся в мессенджері.,"
+  }
+}
